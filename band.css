@@ -18,3 +18,9 @@ h2{
 h3{
     color: orangered;
 }
+ol{
+    border: palegreen;
+    border-style: dotted;
+    width: 300px;
+     max-height: 70px;
+}
