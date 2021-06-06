@@ -7,4 +7,5 @@ p{
 h1{
     border:  10px outset lime;
     width: auto;
+    border-style: solid;
 }
