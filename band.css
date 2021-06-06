@@ -23,4 +23,5 @@ ol{
     border-style: dotted;
     width: 300px;
      max-height: 70px;
+     overflow: auto;
 }
