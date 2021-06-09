@@ -1,0 +1,27 @@
+body{
+    background-color: linen;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    border:  10px outset lime;
+    width: auto;
+    border-style: solid;
+    color: blue;
+}
+h2{
+    border: 5px maroon;
+    border-style: ridge;
+    width: 200px;
+}
+h3{
+    color: orangered;
+}
+ol{
+    border: palegreen;
+    border-style: dotted;
+    width: 300px;
+     max-height: 70px;
+     overflow: auto;
+}
